@@ -8,6 +8,10 @@ This repository studies CNNs in two complementary ways:
 The idea is simple: understand the math deeply, then use an optimized stack for fast experimentation.
 
 ---
+## Demo
+![alt text]({A6F5B299-5288-4919-8EF2-68CC79CB29B7}.png)
+
+---
 
 ## Theoretical Motivation
 
