@@ -98,3 +98,6 @@ where $\hat{y}=\text{softmax}(\text{logits})$.
 ## Project Goal
 
 Build intuition for CNN mechanics from first principles, then bridge that understanding to practical, high-performance inference workflows.
+
+## License
+This project use CC-BY-SA 4.0 license.
