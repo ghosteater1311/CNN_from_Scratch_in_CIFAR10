@@ -1,1 +1,3 @@
-prompt.txt
+/data/
+/src/__pycache__
+/src/layer/__pycache__
