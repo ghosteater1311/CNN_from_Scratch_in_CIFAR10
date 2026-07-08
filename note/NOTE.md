@@ -915,6 +915,7 @@ Two common pooling types:
 Example (`2x2`, stride `2`, single channel):
 
 Input
+
 $$
 \begin{bmatrix}
 1 & 3 & 2 & 0 \\
@@ -925,6 +926,7 @@ $$
 $$
 
 MaxPool output
+
 $$
 \begin{bmatrix}
 6 & 5 \\
@@ -933,6 +935,7 @@ $$
 $$
 
 AvgPool output
+
 $$
 \begin{bmatrix}
 3.5 & 2.0 \\
